@@ -12,13 +12,12 @@
 .stage-direction
 {
     background-color: blanchedalmond;
+    margin-left:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .stage-direction:hover{
     color:crimson;
     background-color:cyan;
-
-    margin-left:20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
@@ -68,4 +67,32 @@ font-size: large;
 {
     padding: 3px;
     border: 1px solid black;
+}
+
+.GUIDO:hover
+{
+    border: 1px solid rgba(205, 250, 6, 0.856);
+    color: tomato;
+    text-shadow: 1px 1px 1px rgb(8, 113, 252);
+}
+
+.MORANZONE:hover
+{
+    border: 1px solid rgba(205, 250, 6, 0.856);
+    color: tomato;
+    text-shadow: 1px 1px 1px rgb(8, 113, 252);
+}
+
+.name:hover
+{
+    border: 1px solid rgba(250, 6, 238, 0.856);
+    color: rgb(2, 247, 255);
+    text-shadow: 1px 1px 1px rgb(70, 66, 22);
+}
+
+.speech:hover
+{
+    border: 1px solid rgba(250, 6, 238, 0.856);
+    color: rgb(2, 247, 255);
+    text-shadow: 1px 1px 1px rgb(70, 66, 22);
 }
