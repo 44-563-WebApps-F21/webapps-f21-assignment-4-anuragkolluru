@@ -47,3 +47,24 @@ font-size: large;
     margin-left: auto;
     margin-right: auto;
 }
+
+#table1 tr:nth-child(even)
+{
+    background-color:darkgray;
+}
+#table1 tr:nth-child(odd)
+{
+    background-color:dimgrey;
+}
+#table1 th
+{
+    border: 1px solid black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: black ;
+    color: white;
+}
+#table1 td
+{
+    padding: 3px;
+    border: 1px solid black;
