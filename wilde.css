@@ -96,3 +96,28 @@ font-size: large;
     color: rgb(2, 247, 255);
     text-shadow: 1px 1px 1px rgb(70, 66, 22);
 }
+
+ul.navbar 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: o;
+}
+
+ul.navbar li
+{
+    float: left;
+    background-color: teal;
+
+}
+ul.navbar a
+{
+    display: block;
+    padding: 8px;
+    color: wheat;
+}
+ul.navbar a:hover
+{
+    background-color: tomato;
+    color: slategrey;
+}
