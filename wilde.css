@@ -101,13 +101,13 @@ ul.navbar
 {
     list-style-type: none;
     margin: 0;
-    padding: o;
+    padding: 0;
 }
 
 ul.navbar li
 {
     float: left;
-    background-color: teal;
+    background-color: rgb(122, 93, 50);
 
 }
 ul.navbar a
